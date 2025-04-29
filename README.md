@@ -17,7 +17,7 @@ Xây dựng ba mô hình học sâu theo cấu trúc mạng neuron (neural netwo
 - [Driver Behavior Dataset (Kaggle)](https://www.kaggle.com/datasets/robinreni/revitsone-5class)
 
 **Nhóm tác giả**
-- [Nguyễn Hoàng Tâm](https://github.com/nghtamm2003)
+- [Nguyễn Hoàng Tâm](https://github.com/nghtamm)
 - [Phạm Ngọc Nghiệp](https://github.com/xxelxt)
 - [Nguyễn Huy Phước](https://github.com/DurkYerunz)
 	
